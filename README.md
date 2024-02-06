@@ -1,6 +1,6 @@
 # Whisper AI Video Transcript Generator
 
-This Python script utilizes the Whisper AI API to generate transcript text for all video files within a specified folder.
+This Python script utilizes the Whisper AI API to generate transcript text for all video files within a specified folder. It automates the process of extracting spoken content from videos, making it convenient for various applications such as video indexing, content analysis, and accessibility enhancements.
 
 ## Requirements
 
